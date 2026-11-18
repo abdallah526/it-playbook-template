@@ -7,14 +7,14 @@ description: How the network is laid out across sites.
 
 ## Address plan
 
-Describe the rule you use, for example: one /24 per site, VLAN ID equals the third octet.
+Describe the rule you use, for example: one /16 per site (`172.20.0.0/16` for the head office, `172.21.0.0/16` for Branch A), and the VLAN ID is the third octet.
 
 ## Sites
 
 | Site | Subnets | Firewall | Internet links |
 | --- | --- | --- | --- |
-| Head office | `10.0.10.0/24`, `10.0.20.0/24` | Model | Fiber + 4G backup |
-| Branch A | `10.1.10.0/24` | Model | VDSL |
+| Head office | `172.20.11.0/24`, `172.20.21.0/24` | Model | Fiber + 4G backup |
+| Branch A | `172.21.11.0/24` | Model | VDSL |
 
 ## How the sites connect
 
