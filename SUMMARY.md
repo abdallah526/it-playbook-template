@@ -47,8 +47,8 @@
 
 ## Systems & Tools
 
-* [Systems & Tools](systems-and-tools/README.md)
-  * [System Template](systems-and-tools/system-template.md)
+* [Systems & Tools](systems-and-tools/systems-and-tools/README.md)
+  * [System Template](systems-and-tools/systems-and-tools/system-template.md)
 * [VoIP System](systems-and-tools/voip-system/README.md)
   * [PBX Server](systems-and-tools/voip-system/pbx-server/README.md)
     * [Quick Start](systems-and-tools/voip-system/pbx-server/quick-start.md)
@@ -62,7 +62,6 @@
       * [Add Extension To Queue](systems-and-tools/voip-system/pbx-server/how-to-guides/add-extension-to-queue.md)
       * [Change the Rank in the Queue](systems-and-tools/voip-system/pbx-server/how-to-guides/change-the-rank-in-the-queue.md)
       * [Login to Queue](systems-and-tools/voip-system/pbx-server/how-to-guides/login-to-queue.md)
-      * [Make Outbound Calls (Trunks)](systems-and-tools/voip-system/pbx-server/how-to-guides/make-an-outbound-calls-trunks.md)
       * [Listen to Call Record](systems-and-tools/voip-system/pbx-server/how-to-guides/listen-to-call-record/README.md)
         * [Outbound Calls](systems-and-tools/voip-system/pbx-server/how-to-guides/listen-to-call-record/outbound-calls.md)
         * [Inbound Calls](systems-and-tools/voip-system/pbx-server/how-to-guides/listen-to-call-record/inbound-calls.md)
@@ -137,14 +136,13 @@
       * [Create Mail Group](systems-and-tools/mail-systems/google-workspace/how-to-guides/create-mail-group.md)
       * [Allow Quarantined mail](systems-and-tools/mail-systems/google-workspace/how-to-guides/allow-quarantined-mail.md)
     * [Troubleshooting](systems-and-tools/mail-systems/google-workspace/troubleshooting.md)
-* [TeamViewer](systems-and-tools/collaboration-tools/teamviewer/README.md)
-  * [Quick Start](systems-and-tools/collaboration-tools/teamviewer/quick-start.md)
-  * [Installation Guide](systems-and-tools/collaboration-tools/teamviewer/installation-guide.md)
-  * [How-To Guides](systems-and-tools/collaboration-tools/teamviewer/how-to-guides/README.md)
-    * [Sign In to TeamViewer](systems-and-tools/collaboration-tools/teamviewer/how-to-guides/sign-in-to-teamviewer.md)
-    * [Assign Device to TeamViewer Account](systems-and-tools/collaboration-tools/teamviewer/how-to-guides/assign-device-to-teamviewer-account.md)
-    * [Recording Remote Sessions](systems-and-tools/collaboration-tools/teamviewer/how-to-guides/recording-remote-sessions.md)
-* [Keeper Security](systems-and-tools/collaboration-tools/keeper-security.md)
+* [TeamViewer](systems-and-tools/teamviewer/README.md)
+  * [Quick Start](systems-and-tools/teamviewer/quick-start.md)
+  * [Installation Guide](systems-and-tools/teamviewer/installation-guide.md)
+  * [How-To Guides](systems-and-tools/teamviewer/how-to-guides/README.md)
+    * [Sign In to TeamViewer](systems-and-tools/teamviewer/how-to-guides/sign-in-to-teamviewer.md)
+    * [Assign Device to TeamViewer Account](systems-and-tools/teamviewer/how-to-guides/assign-device-to-teamviewer-account.md)
+    * [Recording Remote Sessions](systems-and-tools/teamviewer/how-to-guides/recording-remote-sessions.md)
 * [ZKTeco BioTime](systems-and-tools/zkteco-biotime/README.md)
   * [Quick Start](systems-and-tools/zkteco-biotime/quick-start.md)
   * [Login To BioTime](systems-and-tools/zkteco-biotime/login-to-biotime.md)
@@ -162,9 +160,6 @@
 * [Intercept X](endpoint-security/intercept-x/README.md)
   * [Quick Start](endpoint-security/intercept-x/quick-start.md)
   * [Installation](endpoint-security/intercept-x/installation.md)
-* [Drive Strike](endpoint-security/drive-strike/README.md)
-  * [Quick Start](endpoint-security/drive-strike/quick-start.md)
-  * [Installation](endpoint-security/drive-strike/installation.md)
 
 ## Monitoring & Alerts
 
